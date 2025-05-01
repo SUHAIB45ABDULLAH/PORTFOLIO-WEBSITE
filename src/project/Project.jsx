@@ -8,7 +8,7 @@ const projects = [
     description: "A personal portfolio built with React and TailwindCSS.",
     techStack: ["React", "TailwindCSS", "Vite"],
     githubLink: "https://github.com/yourname/portfolio",
-    liveLink: "https://yourportfolio.com",
+    liveLink: "https://portfolio-website-rose-two-48.vercel.app/",
     image: "/assets/screencapture-localhost-5173-home-2025-04-22-16_51_49.png",
   },
   {
